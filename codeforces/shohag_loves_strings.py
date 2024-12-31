@@ -26,3 +26,8 @@
 # test_cases = [input().strip() for _ in range(t)]
 # answers = solve(test_cases)
 # print(answers)
+
+def solve():
+    s = input()
+    n = len(s)
+    
