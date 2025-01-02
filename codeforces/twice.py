@@ -19,5 +19,3 @@ for _ in range(t):
 results = maximum_score(t, test_cases)
 for res in results:
     print(res)
-
-    
