@@ -27,7 +27,15 @@
 # answers = solve(test_cases)
 # print(answers)
 
-def solve():
-    s = input()
-    n = len(s)
+
+for __ in range(int(input())):
+  w=input()
+  for i in range(len(w)-1):
+    if w[i]==w[i+1]:print(w[i]+w[i+1]);break
+  else:
+    for i in range(len(w)-1):
+      if len(set(w[i:i+3]))==3:print(w[i:i+3]);break
+    else:
+      print(-1)
+
     

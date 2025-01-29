@@ -1,0 +1,1 @@
+{"name":"Local: ps2","url":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps2.py","tests":[{"id":1737833010448,"input":"2\n1\nUSD INR 1.45433\n4\nUSD INR -4\nINR GBP -6\nGBP JPY 5\nJPY USD -1","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps2.py","group":"local","local":true}

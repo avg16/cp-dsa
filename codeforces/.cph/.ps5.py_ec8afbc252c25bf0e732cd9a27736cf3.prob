@@ -1,0 +1,1 @@
+{"name":"Local: ps5","url":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps5.py","tests":[{"id":1737835335115,"input":"1\n1\n4\nEUR USD 1.1 0.2\nUSD GBP 0.75 0.1\nGBP JPY 150 0.1\nEUR JPY 165 0.1\nEUR JPY","output":"164.835"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps5.py","group":"local","local":true}

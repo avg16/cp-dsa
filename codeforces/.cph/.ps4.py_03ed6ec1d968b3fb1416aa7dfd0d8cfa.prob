@@ -1,0 +1,1 @@
+{"name":"Local: ps4","url":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps4.py","tests":[{"id":1737835605535,"input":"1\n4\n4\nUSD GBP 0.75\nGBP INR 100\nINR JPY 1.5\nJPY USD 0.007","output":"INR GBP USD JPY INR"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abhivansh/Desktop/cp-dsa/codeforces/ps4.py","group":"local","local":true}
